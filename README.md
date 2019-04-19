@@ -1,5 +1,5 @@
 # Install-CentOS-7
-Install CentOS 7 On VMware Workstation 12 From ISO
+Install CentOS-7 On VMware Workstation 12 From ISO
 
 <li>	Open VMWare workstation</li>
 <li>	Once VMWare workstation is open, need to follow the following steps to ensure that CentOS-7 is installed:</li>
